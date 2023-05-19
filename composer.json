@@ -41,7 +41,7 @@
         "pear-pear.horde.org/horde_yaml": "^2.0.6",
         "horde/components": "dev-master",
         "pear/archive_tar": "^1.4.2",
-        "pear/pear": "^1.10.0@dev"
+        "pear/pear": "^1.10.10"
     },
     "autoload": {
         "psr-4": {"Horde\\GitTools\\": "lib"}
