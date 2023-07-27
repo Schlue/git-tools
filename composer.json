@@ -31,17 +31,17 @@
     "require": {
         "php": ">=5.5.0",
         "pear-pear.horde.org/horde_argv": "^2.1.0",
-        "pear-pear.horde.org/horde_cache": "^2",
-        "pear-pear.horde.org/horde_cli": "^2.2.0",
+        "pear-pear.horde.org/horde_cache": "^2.5.5",
+        "pear-pear.horde.org/horde_cli": "^2.3.0",
         "pear-pear.horde.org/horde_cli_modular": "^2.1.0",
-        "pear-pear.horde.org/horde_exception": "^2.0.0",
-        "pear-pear.horde.org/horde_http": "^2",
+        "pear-pear.horde.org/horde_exception": "^2.0.8",
+        "pear-pear.horde.org/horde_http": "^2.1.7",
         "pear-pear.horde.org/horde_pear": "^1.0.0@dev",
         "pear-pear.horde.org/horde_translation": "^2.2.2",
-        "pear-pear.horde.org/horde_yaml": "^2.0.6",
+        "pear-pear.horde.org/horde_yaml": "^2.1.0",
         "horde/components": "dev-master",
-        "pear/archive_tar": "^1.4.2",
-        "pear/pear": "^1.10.10"
+        "pear/archive_tar": "^1.4.14",
+        "pear/pear": "^1.10.13"
     },
     "autoload": {
         "psr-4": {"Horde\\GitTools\\": "lib"}
